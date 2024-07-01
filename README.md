@@ -1,3 +1,3 @@
-# week-planner
+# Front-end Challenge
 
-A dynamic HTML, CSS, and JavaScript week planner app.
+A simple QR code component
